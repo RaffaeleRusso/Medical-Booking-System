@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"BoundarySistemiEsterni"},{"l":"BoundaryUtenti"},{"l":"Control"},{"l":"DAO"},{"l":"Entity"},{"l":"ENUM"},{"l":"Exception"}]
